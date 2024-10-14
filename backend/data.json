@@ -28,5 +28,20 @@
     "id": 5,
     "name": "Code Cool",
     "age": 15
+  },
+  {
+    "id": 6,
+    "name": "john doe",
+    "age": "10"
+  },
+  {
+    "id": 7,
+    "name": "teszt ",
+    "age": "0"
+  },
+  {
+    "id": 8,
+    "name": "teszt 2",
+    "age": "2"
   }
 ]
